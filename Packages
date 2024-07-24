@@ -1,0 +1,16 @@
+Package: com.flame.tinderfixer
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm64
+Maintainer: imagin
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./com.flame.tinderfixer_0.0.1-1+debug_iphoneos-arm64.deb
+Size: 4200
+MD5sum: 559951d77de75475ad1e14f77ddd11fe
+SHA1: b65d9439acad7f18ed73bca2e93927bb0033ee27
+SHA256: a2e5da2277ebc24726e9706833c975ba49bd9b403f076a235b81201383b989e7
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: imagin
+Name: FlameTinderFixer
+

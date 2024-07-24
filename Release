@@ -1,0 +1,8 @@
+Origin: FlameTinderFixer
+Label: FlameTinderFixer
+Suite: stable
+Version: 1.0
+Codename: flamefixer
+Architectures: iphoneos-arm
+Components: main
+Description: Tweak to block dylib access in Tinder
